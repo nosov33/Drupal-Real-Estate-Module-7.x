@@ -1,0 +1,5 @@
+name = Real Estate
+description = Module added Real Estate functions to Drupal site. Developed by Ivan Nosov.
+package = Drupal Real Estate 
+core = 7.x
+version = 7.x-0.3-dev
